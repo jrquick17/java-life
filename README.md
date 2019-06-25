@@ -44,4 +44,5 @@ If you find any issues feel free to open a request in [the Issues tab](https://g
 
 ## Future Plans
 
+* Run using Java 8
 * Burn with fire
