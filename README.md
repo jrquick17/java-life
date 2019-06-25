@@ -10,7 +10,7 @@
 
 ## About ## 
 
-A simple Java program which allows you to simulate [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
+A simple Java program which allows you to simulate [Conway's Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life). It allows the user to select a grid size, manually "kill" or "birth" cells, step through generation by generation, or just let it run continuously. Will your species stabilize or go extinct?,
 
 * An updated version of this written in Angular and Ionic can be [found here](https://github.com/jrquick17/ionic-life).
 * Visit [my website](https://jrquick.com) for me cool stuff!
